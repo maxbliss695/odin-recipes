@@ -15,6 +15,7 @@ This project is an early iteration using just HTML (no CSS/JS) that taught me th
 * How to make images more accessible with alt text
 * Make use of HTML entities for adding in special characters
 * Add height or width to images so they better fit on the page
+* Use an HTML validator to check code structure
 
 
 
